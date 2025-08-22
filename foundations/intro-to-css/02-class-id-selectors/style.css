@@ -1,0 +1,20 @@
+.odd-element{
+    color:black;
+    background-color: rgba(255, 0, 0, 0.5);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#one-id{
+    color: blue;
+    font-size: 36px;
+}
+
+.third-element{
+    font-size: 24px;
+}
+
+#second-id{
+    background-color: rgba(0, 255, 0, 0.5);
+    font-size: 24px;
+    font-weight: bold;
+}
